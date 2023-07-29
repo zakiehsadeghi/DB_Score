@@ -8,7 +8,7 @@ load protein and ligand pdb files
 calculating protein coordinates,and adding the radius of each atom present in protein
 # 4
 calculating ligand coordinates,and adding the radius of each atom present in ligand
-# 4
+# 5
 calculating distances between protein-ligand atom pairs
 # 6
 calculating DB_Score with specific cutoff
